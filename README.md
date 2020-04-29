@@ -1,2 +1,2 @@
 # Dhaval--Python-Task
-Adding Number in list
+Use functions for lists
